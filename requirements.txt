@@ -1,0 +1,13 @@
+requests==2.22.0
+
+pytest==4.6.5
+pytest-cache==1.0
+pytest-html==1.22.0
+pytest-json==0.4.0
+pytest-metadata==1.8.0
+pytest-pep8==1.0.6
+
+numpy==1.17.2
+pandas==0.25.1
+
+rmotr-curriculum-tools==0.2.0
