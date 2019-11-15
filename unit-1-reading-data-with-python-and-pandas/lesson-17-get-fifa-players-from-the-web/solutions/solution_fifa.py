@@ -2,9 +2,7 @@ import numpy as np
 import pandas as pd
 import requests
 
-req = requests.get('https://www.fifaindex.com/players/top/fifa20_363/')
-
-dfs = pd.read_html(req.text)
+dfs = pd.read_html('fifa_players.html')
 
 fifa_df = dfs[0]
 
