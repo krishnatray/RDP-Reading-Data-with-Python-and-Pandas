@@ -8,7 +8,6 @@ dfs = pd.read_html(req.text)
 
 fifa_df = dfs[0]
 
-# Remove the first two columns and the last column
 fifa_df = fifa_df.iloc[:, 2:-1]
 
 most_hits_player = fifa_df.sort_values('Hits', ascending=False).head(1)
