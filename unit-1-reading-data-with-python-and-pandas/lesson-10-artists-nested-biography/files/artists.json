@@ -1,48 +1,82 @@
 [
-   {
-      "name":"Amedeo Modigliani",
-      "years":"1884 - 1920",
-      "genre":"Expressionism",
-      "nationality":"Italian",
-      "bio":[{"full name": "Amedeo Clemente Modigliani", "pronunciation": "[ame\u02c8d\u025b\u02d0o modi\u028e\u02c8\u028ea\u02d0ni]", "life span": "12 July 1884 \u2013 24 January 1920", "info": "was an Italian Jewish painter and sculptor who worked mainly in France. He is known for portraits and nudes in a modern style characterized by elongation of faces, necks, and figures that were not received well during his lifetime but later found acceptance. Modigliani spent his youth in Italy, where he studied the art of antiquity and the Renaissance. In 1906 he moved to Paris, where he came into contact with such artists as Pablo Picasso and Constantin Br\u00e2ncu\u0219i. By 1912 Modigliani was exhibiting highly stylized sculptures with Cubists of the Section d'Or group at the Salon d'Automne.",
-      "wikipedia": "http:\/\/en.wikipedia.org\/wiki\/Amedeo_Modigliani",
-      "paintings":193}]
-   },
-   {
-      "name":"Vasiliy Kandinskiy",
-      "years":"1866 - 1944",
-      "genre":"Expressionism,Abstractionism",
-      "nationality":"Russian",
-      "bio":[{"full name": "Wassily Wassilyevich Kandinsky", "pronunciation": "\u0412\u0430\u0441\u0438\u0301\u043b\u0438\u0439 \u0412\u0430\u0441\u0438\u0301\u043b\u044c\u0435\u0432\u0438\u0447 \u041a\u0430\u043d\u0434\u0438\u0301\u043d\u0441\u043a\u0438\u0439, tr. Vas\u00edliy Vas\u00edl\u02b9evich Kand\u00ednskiy", "life span": "16 December [O.S. 4 December] 1866 \u2013 13 December 1944", "info": "was a Russian painter and art theorist.",
-      "wikipedia":"http:\/\/en.wikipedia.org\/wiki\/Wassily_Kandinsky",
-      "paintings":88}]
-   },
-   {
-      "name":"Diego Rivera",
-      "years":"1886 - 1957",
-      "genre":"Social Realism,Muralism",
-      "nationality":"Mexican",
-      "bio":[{"full name": "Diego Mar\u00eda de la Concepci\u00f3n Juan Nepomuceno Estanislao de la Rivera y Barrientos Acosta y Rodr\u00edguez, known as Diego Rivera", "pronunciation": "[\u02c8dje\u0263o ri\u02c8\u03b2e\u027ea]", "life span": "December 8, 1886 \u2013 November 24, 1957", "info": "was a prominent Mexican painter. His large frescoes helped establish the Mexican mural movement in Mexican art. Between 1922 and 1953, Rivera painted murals in, among other places, Mexico City, Chapingo, Cuernavaca, San Francisco, Detroit, and New York City. In 1931, a retrospective exhibition of his works was held at the Museum of Modern Art in New York. Rivera had a volatile marriage with fellow Mexican artist Frida Kahlo.",
-      "wikipedia": "http:\/\/en.wikipedia.org\/wiki\/Diego_Rivera",
-      "paintings":70}]
-   },
-   {
-      "name":"Claude Monet",
-      "years":"1840 - 1926",
-      "genre":"Impressionism",
-      "nationality":"French",
-      "bio":[{"full name": "Oscar-Claude Monet", "pronunciation": "[klod m\u0254n\u025b]", "life span": "14 November 1840 \u2013 5 December 1926", "info": "was a French painter, a founder of French Impressionist painting and the most consistent and prolific practitioner of the movement's philosophy of expressing one's perceptions before nature, especially as applied to plein air landscape painting. The term \"Impressionism\" is derived from the title of his painting Impression, soleil levant (Impression, Sunrise), which was exhibited in 1874 in the first of the independent exhibitions mounted by Monet and his associates as an alternative to the Salon de Paris.Monet's ambition of documenting the French countryside led him to adopt a method of painting the same scene many times in order to capture the changing of light and the passing of the seasons. From 1883, Monet lived in Giverny, where he purchased a house and property and began a vast landscaping project which included lily ponds that would become the subjects of his best-known works. In 1899, he began painting the water lilies, first in vertical views with a Japanese bridge as a central feature and later in the series of large-scale paintings that was to occupy him continuously for the next 20 years of his life.",
-      "wikipedia": "http:\/\/en.wikipedia.org\/wiki\/Claude_Monet",
-      "paintings":73}]
-   },
-   {
-      "name":"Rene Magritte",
-      "years":"1898 - 1967",
-      "genre":"Surrealism,Impressionism",
-      "nationality":"Belgian",
-      "bio":[{"full name": "Ren\u00e9 Fran\u00e7ois Ghislain Magritte", "pronunciation": "[\u0281\u0259ne f\u0281\u0251\u0303swa \u0261il\u025b\u0303 ma\u0261\u0281it]", "life span": "21 November 1898 \u2013 15 August 1967", "info": "Was a Belgian Surrealist artist. He became well known for creating a number of witty and thought-provoking images. Often depicting ordinary objects in an unusual context, his work is known for challenging observers' preconditioned perceptions of reality. His imagery has influenced Pop art, minimalist and conceptual art.",
-      "wikipedia": "http:\/\/en.wikipedia.org\/wiki\/Ren\u00e9_Magritte",
-      "paintings":194}]
-   }
-
+  {
+    "name": "Amedeo Modigliani",
+    "years": "1884 - 1920",
+    "genre": "Expressionism",
+    "nationality": "Italian",
+    "bio": [
+      {
+        "full name": "Amedeo Clemente Modigliani",
+        "pronunciation": "[ame\u02c8d\u025b\u02d0o modi\u028e\u02c8\u028ea\u02d0ni]",
+        "life span": "12 July 1884 \u2013 24 January 1920",
+        "info": "was an Italian Jewish painter and sculptor who worked mainly in France. He is known for portraits and nudes in a modern style characterized by elongation of faces, necks, and figures that were not received well during his lifetime but later found acceptance. Modigliani spent his youth in Italy, where he studied the art of antiquity and the Renaissance. In 1906 he moved to Paris, where he came into contact with such artists as Pablo Picasso and Constantin Br\u00e2ncu\u0219i. By 1912 Modigliani was exhibiting highly stylized sculptures with Cubists of the Section d'Or group at the Salon d'Automne.",
+        "wikipedia": "http://en.wikipedia.org/wiki/Amedeo_Modigliani",
+        "paintings": 193
+      }
+    ]
+  },
+  {
+    "name": "Vasiliy Kandinskiy",
+    "years": "1866 - 1944",
+    "genre": "Expressionism,Abstractionism",
+    "nationality": "Russian",
+    "bio": [
+      {
+        "full name": "Wassily Wassilyevich Kandinsky",
+        "pronunciation": "\u0412\u0430\u0441\u0438\u0301\u043b\u0438\u0439 \u0412\u0430\u0441\u0438\u0301\u043b\u044c\u0435\u0432\u0438\u0447 \u041a\u0430\u043d\u0434\u0438\u0301\u043d\u0441\u043a\u0438\u0439, tr. Vas\u00edliy Vas\u00edl\u02b9evich Kand\u00ednskiy",
+        "life span": "16 December [O.S. 4 December] 1866 \u2013 13 December 1944",
+        "info": "was a Russian painter and art theorist.",
+        "wikipedia": "http://en.wikipedia.org/wiki/Wassily_Kandinsky",
+        "paintings": 88
+      }
+    ]
+  },
+  {
+    "name": "Diego Rivera",
+    "years": "1886 - 1957",
+    "genre": "Social Realism,Muralism",
+    "nationality": "Mexican",
+    "bio": [
+      {
+        "full name": "Diego Mar\u00eda de la Concepci\u00f3n Juan Nepomuceno Estanislao de la Rivera y Barrientos Acosta y Rodr\u00edguez, known as Diego Rivera",
+        "pronunciation": "[\u02c8dje\u0263o ri\u02c8\u03b2e\u027ea]",
+        "life span": "December 8, 1886 \u2013 November 24, 1957",
+        "info": "was a prominent Mexican painter. His large frescoes helped establish the Mexican mural movement in Mexican art. Between 1922 and 1953, Rivera painted murals in, among other places, Mexico City, Chapingo, Cuernavaca, San Francisco, Detroit, and New York City. In 1931, a retrospective exhibition of his works was held at the Museum of Modern Art in New York. Rivera had a volatile marriage with fellow Mexican artist Frida Kahlo.",
+        "wikipedia": "http://en.wikipedia.org/wiki/Diego_Rivera",
+        "paintings": 70
+      }
+    ]
+  },
+  {
+    "name": "Claude Monet",
+    "years": "1840 - 1926",
+    "genre": "Impressionism",
+    "nationality": "French",
+    "bio": [
+      {
+        "full name": "Oscar-Claude Monet",
+        "pronunciation": "[klod m\u0254n\u025b]",
+        "life span": "14 November 1840 \u2013 5 December 1926",
+        "info": "was a French painter, a founder of French Impressionist painting and the most consistent and prolific practitioner of the movement's philosophy of expressing one's perceptions before nature, especially as applied to plein air landscape painting. The term 'Impressionism' is derived from the title of his painting Impression, soleil levant (Impression, Sunrise), which was exhibited in 1874 in the first of the independent exhibitions mounted by Monet and his associates as an alternative to the Salon de Paris.Monet's ambition of documenting the French countryside led him to adopt a method of painting the same scene many times in order to capture the changing of light and the passing of the seasons. From 1883, Monet lived in Giverny, where he purchased a house and property and began a vast landscaping project which included lily ponds that would become the subjects of his best-known works. In 1899, he began painting the water lilies, first in vertical views with a Japanese bridge as a central feature and later in the series of large-scale paintings that was to occupy him continuously for the next 20 years of his life.",
+        "wikipedia": "http://en.wikipedia.org/wiki/Claude_Monet",
+        "paintings": 73
+      }
+    ]
+  },
+  {
+    "name": "Rene Magritte",
+    "years": "1898 - 1967",
+    "genre": "Surrealism,Impressionism",
+    "nationality": "Belgian",
+    "bio": [
+      {
+        "full name": "Ren\u00e9 Fran\u00e7ois Ghislain Magritte",
+        "pronunciation": "[\u0281\u0259ne f\u0281\u0251\u0303swa \u0261il\u025b\u0303 ma\u0261\u0281it]",
+        "life span": "21 November 1898 \u2013 15 August 1967",
+        "info": "Was a Belgian Surrealist artist. He became well known for creating a number of witty and thought-provoking images. Often depicting ordinary objects in an unusual context, his work is known for challenging observers' preconditioned perceptions of reality. His imagery has influenced Pop art, minimalist and conceptual art.",
+        "wikipedia": "http://en.wikipedia.org/wiki/Ren\u00e9_Magritte",
+        "paintings": 194
+      }
+    ]
+  }
 ]

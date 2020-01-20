@@ -1,7 +1,9 @@
 import numpy as np
 import pandas as pd
 
-file = pd.ExcelFile('playstore.xlsx')
+data_url = 'https://github.com/ine-rmotr-projects/project-files/files/4086772/playstore.xlsx'
+
+file = pd.ExcelFile(data_url)
 
 playstore_df = file.parse(index_col=0)
 

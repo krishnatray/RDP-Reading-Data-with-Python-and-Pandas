@@ -1,6 +1,6 @@
 # Load PlayStore Apps Excel file
 
-Read the `playstore.xlsx` Excel file and store it in a `playstore_df` DataFrame.
+Read the `playstore.xlsx` Excel file from the given `data_url` and store it in a `playstore_df` DataFrame.
 
 - When reading in the file, only use the columns `'App', 'Rating', 'Installs', 'Rating', 'Genres', 'Last_Updated'`.
 - Make sure `Last_Updated` is in datetime format, try do this while reading the file into the DataFrame.
