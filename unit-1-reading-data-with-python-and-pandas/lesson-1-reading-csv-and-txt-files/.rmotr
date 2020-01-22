@@ -4,3 +4,4 @@ name = "Reading CSV and TXT files"
 notebooks_ai_project_url = "https://notebooks.ai/rmotr-curriculum/reading-csv-and-txt-files-fb829f46"
 youtube_id = ""
 jwplayer_media_id = "WXCpuDD1"
+subscribed_only = false
